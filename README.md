@@ -4,8 +4,8 @@
 <table>
 <thead>
 <tr>
-<th>Spesifikasi</th>
-<th>Keterangan</th>
+<th>Specification</th>
+<th>Information</th>
 </tr>
 </thead>
 <tbody>
@@ -22,12 +22,8 @@
 <td>SK-Hynix 8GB DDR3L</td>
 </tr>
 <tr>
-<td>Storage 1</td>
-<td>512GB Toshiba HDD Sata</td>
-</tr>
-<tr>
-<td>Storage 2</td>
-<td>256GB Midasforce M2.2242 SSD</td>
+<td>Storage</td>
+<td>120GB Gupga SDD Sata</td>
 </tr>
 <tr>
 <td>Wireless Card</td>
