@@ -66,7 +66,7 @@
 <ul dir="auto">
 <li>Install Sonoma 14.1.1 using this EFI</li>
 <li>If the installation won't proceed, on Device Properties, comment out the <code>PciRoot(0x0)/Pci(0x2,0x0)</code> by adding <b>#</b> infront of it</li> <br> <img src="https://i.imgur.com/BjYINrH.png" style="max-width: 100%;">
-<li>Install OpenCore Legary Patcher and run the program to patch your x250</li>
+<li>Install <a href="https://github.com/dortania/OpenCore-Legacy-Patcher">OpenCore Legacy Patcher</a> and run the program to patch your x250</li>
 <li>Once the installation of OLCP succeeded, uncomment out the <code>PciRoot(0x0)/Pci(0x2,0x0)</code> </li>
  <li>I disabled the itlwm (the file was to large for me to upload all the EFI folder, I need to remove him) for this configuration, add the itlwm kext in the Kexts folder and enable it on the config.plist. 
 To download itlwm <a href="https://github.com/OpenIntelWireless/itlwm/releases"><code>click here</code></a></p>
